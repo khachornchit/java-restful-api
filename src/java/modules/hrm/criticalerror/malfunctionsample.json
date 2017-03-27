@@ -1,0 +1,62 @@
+{
+    "workflowName": "Not set yet",
+    "workflowWaS": "Workflow of New WaS",
+    "workflowInteressent": "Workflow of New Interessent",
+    "countwasyesterday": {
+        "count": 0
+    },
+    "countinteressentyesterday": {
+        "count": 0
+    },
+    "counttotalyesterday": {
+        "count": 0
+    },
+    "countwastoday": {
+        "count": 0
+    },
+    "countinteressenttoday": {
+        "count": 0
+    },
+    "counttotaltoday": {
+        "count": 0
+    },
+    "countwas": {
+        "name": "HRM Error WaS",
+        "count": -1,
+        "color": "yellow",
+        "colorcode": "#FFA500"
+    },
+    "countinteressent": {
+        "name": "HRM Error Interessent",
+        "count": -1,
+        "color": "yellow",
+        "colorcode": "#FFA500"
+    },
+    "counterrorhandling3": {
+        "name": "HRM Critical Error",
+        "count": -2,
+        "color": "yellow",
+        "colorcode": "#FFA500"
+    },
+    "errorhandling3": [],
+    "errorresolved": [],
+    "countwassuccessful": {
+        "name": "HRM Successful WaS",
+        "count": 0,
+        "color": "green",
+        "colorcode": "#9ACD32"
+    },
+    "countinteressentsuccessful": {
+        "name": "HRM Successful Interessent",
+        "count": 0,
+        "color": "green",
+        "colorcode": "#9ACD32"
+    },
+    "countsuccessfulhandling": {
+        "name": "HRM Successful Workflow",
+        "count": 0,
+        "color": "green",
+        "colorcode": "#9ACD32"
+    },
+    "successfulhandling": []
+}
